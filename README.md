@@ -6,7 +6,7 @@ Quantitative Finance & Data Science Master's Student at HTW Berlin | Business Ma
 
 ### 👨‍💻 About Me
 - 🔭 **Current Focus:** Advancing my expertise in Quantitative Finance, Data Science, and data-driven solutions for financial markets.
-- 🎓 **Background:** B.Sc. in Business Mathematics (HTW Berlin) with a thesis on *Multiple Testing in Financial Market Analysis*.
+- 🎓 **Background:** B.Sc. in Business Mathematics (HTW Berlin)*.
 - 💼 **Experience:** Background in financial planning, client acquisition (DVAG), and international project coordination.
 - 🌱 **Interests:** Data science applications for a sustainable economy, statistical modeling, and financial process optimization.
 - 📬 **Reach Me:** [LinkedIn Profile](https://www.linkedin.com/in/kevin-hernanda-pratama-a11392434/) | 📧 Kevin.hp8@gmail.com
