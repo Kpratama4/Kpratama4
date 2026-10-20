@@ -5,8 +5,8 @@ Quantitative Finance & Data Science Master's Student at HTW Berlin | Business Ma
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Current Focus:** Advancing my expertise in Quantitative Finance, Data Science, Cyber Security, and data-driven solutions for sustainable financial markets.
-- 🎓 **Background:** B.Sc. in Business Mathematics (HTW Berlin).
+- 🔭 **Current Focus:** Advancing my expertise in Quantitative Finance, Data Science, and data-driven solutions for financial markets.
+- 🎓 **Background:** B.Sc. in Business Mathematics (HTW Berlin) with a thesis on *Multiple Testing in Financial Market Analysis*.
 - 💼 **Experience:** Background in financial planning, client acquisition (DVAG), and international project coordination.
 - 🌱 **Interests:** Data science applications for a sustainable economy, statistical modeling, and financial process optimization.
 - 📬 **Reach Me:** [LinkedIn Profile](https://www.linkedin.com/in/kevin-hernanda-pratama-a11392434/) | 📧 Kevin.hp8@gmail.com
@@ -20,12 +20,19 @@ Quantitative Finance & Data Science Master's Student at HTW Berlin | Business Ma
 
 ---
 
+### ✍️ Articles & Writings
+- [Check out my Medium Profile](https://medium.com/@kevin.hp8) — Sharing insights, analytical thoughts, and notes on Data Science & Quantitative Finance.
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kpratama4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Kevin's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpratama4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Hernanda_Pratama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hernanda-pratama-a11392434/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevin.hp8)
