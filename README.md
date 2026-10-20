@@ -23,7 +23,6 @@ Quantitative Finance & Data Science Master's Student at HTW Berlin | Business Ma
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kpratama4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Kevin's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.path/api/top-langs/?username=Kpratama4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
